@@ -1,0 +1,174 @@
+ .u-section-1 {
+  background-image: url("images/SARAMOM-11803.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 792px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 980px;
+  min-height: 555px;
+  margin: 60px 25px 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Amatic SC";
+  font-weight: 700;
+  font-size: 3.75rem;
+  margin: 57px 183px 0 auto;
+}
+
+.u-section-1 .u-custom-html-1 {
+  min-height: 65px;
+  margin: 61px -236px 0 -104px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 319px;
+  margin: -103px 61px 0 426px;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: none;
+  width: 100%;
+}
+
+.u-section-1 .u-image-1 {
+  width: 545px;
+  left: -102px;
+  right: auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.125rem;
+  margin: -8px 80px 0 728px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.125rem;
+  margin: -28px 301px 0 458px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 653px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 940px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    height: auto;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 41px;
+    margin-left: 406px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-weight: normal;
+    margin-right: 60px;
+    margin-left: 708px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 281px;
+    margin-left: 438px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 500px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 0;
+    margin-left: 227px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 548px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 171px;
+    margin-left: 328px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 375px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 137px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 47px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 368px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 81px;
+    margin-left: 238px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 236px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    margin-right: 86px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 168px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+    margin-left: 119px;
+  }
+}
